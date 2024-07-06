@@ -1,0 +1,10 @@
+.slick-slide{
+    padding: 2px;
+}
+.slick-dots li button h3 {
+     color: aqua; 
+    font-size: 20px;
+    background-color: brown;
+  }
+
+  
